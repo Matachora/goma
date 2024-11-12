@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\main\\am\\Mata_Edwin_Intership\\amgob\\amgob\\amgob.csproj",
+      "projectUniqueName": "C:\\goma\\amgob\\amgob\\amgob.csproj",
       "projectName": "amgob",
-      "projectPath": "C:\\main\\am\\Mata_Edwin_Intership\\amgob\\amgob\\amgob.csproj",
+      "projectPath": "C:\\goma\\amgob\\amgob\\amgob.csproj",
       "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
-      "outputPath": "C:\\main\\am\\Mata_Edwin_Intership\\amgob\\amgob\\obj\\",
+      "outputPath": "C:\\goma\\amgob\\amgob\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edwin\\AppData\\Roaming\\NuGet\\NuGet.Config",

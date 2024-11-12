@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\main\\am\\Mata_Edwin_Intership\\amgob\\",
+  "WorkspaceRootPath": "C:\\goma\\amgob\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4FFF53D-E388-4291-A6CA-62A1B07711CE}|amgob\\amgob.csproj|c:\\main\\am\\mata_edwin_intership\\amgob\\amgob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4FFF53D-E388-4291-A6CA-62A1B07711CE}|amgob\\amgob.csproj|c:\\goma\\amgob\\amgob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4FFF53D-E388-4291-A6CA-62A1B07711CE}|amgob\\amgob.csproj|solutionrelative:amgob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4FFF53D-E388-4291-A6CA-62A1B07711CE}|amgob\\amgob.csproj|c:\\main\\am\\mata_edwin_intership\\amgob\\amgob\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E4FFF53D-E388-4291-A6CA-62A1B07711CE}|amgob\\amgob.csproj|c:\\goma\\amgob\\amgob\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E4FFF53D-E388-4291-A6CA-62A1B07711CE}|amgob\\amgob.csproj|solutionrelative:amgob\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\main\\am\\Mata_Edwin_Intership\\amgob\\amgob\\Program.cs",
+              "DocumentMoniker": "C:\\goma\\amgob\\amgob\\Program.cs",
               "RelativeDocumentMoniker": "amgob\\Program.cs",
-              "ToolTip": "C:\\main\\am\\Mata_Edwin_Intership\\amgob\\amgob\\Program.cs",
+              "ToolTip": "C:\\goma\\amgob\\amgob\\Program.cs",
               "RelativeToolTip": "amgob\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAwAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T20:27:12.983Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\main\\am\\Mata_Edwin_Intership\\amgob\\amgob\\appsettings.json",
+              "DocumentMoniker": "C:\\goma\\amgob\\amgob\\appsettings.json",
               "RelativeDocumentMoniker": "amgob\\appsettings.json",
-              "ToolTip": "C:\\main\\am\\Mata_Edwin_Intership\\amgob\\amgob\\appsettings.json",
+              "ToolTip": "C:\\goma\\amgob\\amgob\\appsettings.json",
               "RelativeToolTip": "amgob\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-12T20:27:09.583Z",
               "EditorCaption": ""

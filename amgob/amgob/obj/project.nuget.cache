@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QXkrHD+ujC8=",
+  "dgSpecHash": "mP/qrfI/IMs=",
   "success": true,
-  "projectFilePath": "C:\\main\\am\\Mata_Edwin_Intership\\amgob\\amgob\\amgob.csproj",
+  "projectFilePath": "C:\\goma\\amgob\\amgob\\amgob.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edwin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\edwin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

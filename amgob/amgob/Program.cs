@@ -4,7 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-var allowedOrigins = builder.Configuration.GetValue<string>("allowebOrigins")!.Split(",");
+var allowedOrigins = builder.Configuration.GetValue<string>("allowedOrigins")!.Split(",");
 
 builder.Services.AddCors(options =>
 {
@@ -29,7 +29,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseCors("AllowAngularApp");
+app.UseCors();
 
 app.UseAuthorization();
 
