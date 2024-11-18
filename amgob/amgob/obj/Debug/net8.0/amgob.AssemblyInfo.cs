@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("amgob")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9e995b7d3adaaa46c3c3da72c30ec00d8999912")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+054089cb6af9b25e2b0a24eb7e30025429d45aa5")]
 [assembly: System.Reflection.AssemblyProductAttribute("amgob")]
 [assembly: System.Reflection.AssemblyTitleAttribute("amgob")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
